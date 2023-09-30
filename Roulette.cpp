@@ -19,7 +19,7 @@ int main(){
             cout << "" << endl;
             cout << "You have " << balance << " kr in your balance." << endl;
 
-            // The amount of monety the user wants to bet.
+            // The amount of money the user wants to bet.
             do {
                 cout << "You need to bet an amount of money. (Type in the amount you want to bet).\n"
                         "1. 100 kr\n"
