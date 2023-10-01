@@ -5,7 +5,7 @@ int GenerateRandomNumber();
 
 int main(){
     // Variables.
-    int age, bet, playOnNumOrCol, balance = 1000, randomNumber, insertedNumber, insertedColor, totalWinToday = 0, checkNumber, quit, playAgain;
+    int age, bet, playOnNumOrCol, balance = 1000, randomNumber, insertedNumber, insertedColor, totalWinToday = 0, checkNumber, playAgain;
     bool number, color, play = true;
 
     // Welcomes the user.
